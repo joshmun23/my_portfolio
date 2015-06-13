@@ -1,16 +1,18 @@
-.info-text {
+.info-container {
   color: #ffffff;
   text-shadow: 1px 1px 1px rgba(0,0,0,1);
-  width: 100vw;
+  letter-spacing: 0.6em;
+  width: 100%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+
+  #info-name {
+    padding-top: 2rem;
+  }
+
+  #info-title {
+    margin-top: -2rem;
+  }
 }
 
-#info-name {
-  padding-top: 2rem;
-}
-
-#info-title {
-  margin-top: -2rem;
-}

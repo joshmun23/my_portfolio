@@ -15,7 +15,6 @@
  */
 body {
   margin: 0;
-  right: 0;
-  bottom: 0;
-  width: 100vw;
+  padding: 0;
+  width: 100%;
 }
